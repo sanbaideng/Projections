@@ -1,0 +1,4 @@
+- Your Highlight on Location 341-349 | Added on Sunday, September 7, 2014 6:57:54 PM
+
+NumPy的诞生弥补了这些不足，NumPy提供了两种基本的对象：ndarray（N-dimensional array object）和 ufunc（universal function object）。ndarray(下文统一称之为数组)是存储单一数据类型的多维数组，而ufunc则是能够对数组进行处理的函数。 ndarray对象 函数库的导入 本书的示例程序假设用以下推荐的方式导入NumPy函数库: import numpy as np
+==========

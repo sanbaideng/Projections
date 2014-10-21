@@ -1,0 +1,16 @@
+- Your Highlight on Location 316-317 | Added on Monday, July 14, 2014 6:21:47 AM
+
+在1992年，一个叫Nombas的公司开发了“C减减”（C minus minus，Cmm）语言，后来改名为ScriptEase。
+==========
+- Your Highlight on Location 365-366 | Added on Monday, July 14, 2014 6:24:43 AM
+
+2008年Mozilla Firefox的一次改动，使Firefox 3.0的JavaScript性能大幅提升，从而引发了JavaScript引擎之间的效率竞赛
+==========
+- Your Highlight on Location 388-393 | Added on Monday, July 14, 2014 6:25:54 AM
+
+正如当年为了统一JavaScript语言标准，人们制定了ECMAScript规范一样，如今为了统一JavaScript在浏览器之外的实现，CommonJS诞生了。CommonJS试图定义一套普通应用程序使用的API，从而填补JavaScript标准库过于简单的不足。CommonJS的终极目标是制定一个像C++标准库一样的规范，使得基于CommonJS API的应用程序可以在不同的环境下运行，就像用C++编写的应用程序可以使用不同的编译器和运行时函数库一样。为了保持中立，CommonJS不参与标准库实现，其实现交给像Node.js之类的项目来完成。
+==========
+- Your Highlight on Location 394-399 | Added on Monday, July 14, 2014 6:26:22 AM
+
+CommonJS规范包括了模块（modules）、包（packages）、系统（system）、二进制（binary）、控制台（console）、编码（encodings）、文件系统（filesystems）、套接字（sockets）、单元测试（unit testing）等部分。目前大部分标准都在拟定和讨论之中，已经发布的标准有Modules/1.0、Modules/1.1、Modules/1.1.1、Packages/1.0、System/1.0。 Node.js是目前CommonJS规范最热门的一个实现，它基于CommonJS的Modules/1.0规范实现了Node.js的模块，同时随着CommonJS规范的更新，Node.js也在不断跟进
+==========

@@ -1,0 +1,4 @@
+- Your Highlight on Location 33-37 | Added on Wednesday, June 11, 2014 11:41:00 AM
+
+Yet JavaScript has not only persevered since 1995, it’s thrived. Potential rivals in the browser—Flash, Silverlight, and Java applets, to name a few—have come and (more or less) gone with the rise of HTML5. Meanwhile, when a programmer named Ryan Dahl wanted to build a new framework for event-driven servers, he searched near and far for a language that was both dynamic and single-threaded before realizing that the answer was right in front of him. And so, Node.js was born, and JavaScript became a force to be reckoned with as a server language.
+==========

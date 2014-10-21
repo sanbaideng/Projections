@@ -1,0 +1,8 @@
+- Your Highlight on Location 290-292 | Added on Saturday, July 12, 2014 9:16:49 AM
+
+Redis数据库中的所有数据都存储在内存中。由于内存的读写速度远快于硬盘，因此Redis在性能上对比其他基于硬盘存储的数据库有非常明显的优势，在一台普通的笔记本电脑上，Redis可以在一秒内读写超过十万个键值。
+==========
+- Your Highlight on Location 297-299 | Added on Saturday, July 12, 2014 9:17:31 AM
+
+Redis可以为每个键设置生存时间（Time To Live，TTL），生存时间到期后键会自动被删除。这一功能配合出色的性能让Redis可以作为缓存系统来使用，而且由于Redis支持持久化和丰富的数据类型，使其成为了另一个非常流行的缓存系统Memcached的有力竞争者。
+==========

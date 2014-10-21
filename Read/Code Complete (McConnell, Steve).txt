@@ -1,0 +1,12 @@
+- Your Highlight on Location 877-881 | Added on Thursday, May 29, 2014 4:34:25 AM
+
+The gap between the best software engineering practice and the average practice is very wide—perhaps wider than in any other engineering discipline. A tool that disseminates good practice would be important. — Fred Brooks
+==========
+- Your Highlight on Location 1175-1182 | Added on Tuesday, June 10, 2014 5:51:01 AM
+
+If you agree that improving software development is important in general, the question for you as a reader of this book becomes, Why is construction an important focus? Here's why: Construction is a large part of software development. Depending on the size of the project, construction typically takes 30 to 80 percent of the total time spent on a project. Anything that takes up that much project time is bound to affect the success of the project.
+==========
+- Your Highlight on Location 21701-21704 | Added on Tuesday, June 10, 2014 5:53:50 AM
+
+On a small project, construction is the most prominent activity by far, taking up as much as 65 percent of the total development time. On a medium-size project, construction is still the dominant activity but its share of the total effort falls to about 50 percent. On very large projects, architecture, integration, and system testing take up more time and construction becomes less dominant. In short, as project size increases, construction becomes a smaller part of the total effort.
+==========

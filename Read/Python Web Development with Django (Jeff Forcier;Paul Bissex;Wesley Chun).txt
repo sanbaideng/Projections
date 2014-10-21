@@ -1,0 +1,24 @@
+- Your Highlight on Location 428-429 | Added on Wednesday, June 4, 2014 4:34:07 AM
+
+If you're a Web developer, a programmer who creates Web sites, then Django just might change your life. It has certainly changed ours.
+==========
+- Your Highlight on Location 531-535 | Added on Thursday, June 5, 2014 12:23:53 AM
+
+A final note about the interpreter: Once you become familiar with using it, you should consider a similar tool called IPython. If you're already sold by the concept of an interactive interpreter, IPython is an order of more powerful magnitude! It provides numerous features such as system shell access, command-line numbering, automatic indentation, command history, and much more. You can find out more about IPython at http://ipython.scipy.org. It does not ship with Python, but it is available as a third-party download.
+==========
+- Your Highlight on Location 604-605 | Added on Friday, June 13, 2014 12:46:26 PM
+
+You should also note in the final example, the value None. That is Python's special value which is equivalent to NULL or void values found in other languages.
+==========
+- Your Highlight on Location 674-678 | Added on Friday, June 13, 2014 9:51:11 PM
+
+You are also able to index multiple elements of a sequence at once, called slicing in Python. Slicing is represented by a pair of indices, say i and j, delimited by a single colon (:). When a slice of a sequence is requested, the interpreter takes the subset of elements beginning at the first index i and goes up to but not including the second index j. >>> s = 'Python' >>> s[1:4] 'yth'
+==========
+- Your Highlight on Location 691-691 | Added on Friday, June 13, 2014 9:51:42 PM
+
+
+==========
+- Your Highlight on Location 726-727 | Added on Friday, June 13, 2014 9:53:57 PM
+
+List built-in methods such as sort, append, and insert modify the object directly and do not have a return value.
+==========
