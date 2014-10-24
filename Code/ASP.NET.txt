@@ -1,1 +1,4 @@
 1.获取客户端浏览器信息：Request.Browser.HttpBrowserCapabilities
+  HttpBrowserCapabilities bc = Request.Browser;
+  browserinfo.Value = bc.Type;
+2.全局应用程序类asax Application对象可用于制作聊天室
