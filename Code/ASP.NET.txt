@@ -1,0 +1,1 @@
+1.获取客户端浏览器信息：Request.Browser.HttpBrowserCapabilities
