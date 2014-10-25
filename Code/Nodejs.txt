@@ -1,0 +1,1 @@
+1.npm 是 node packaged modules 的简称，它的作用是基于 node.js 管理扩展包之间的依赖关系。
