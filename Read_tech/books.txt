@@ -1,3 +1,31 @@
 1.Web信息架构设计大型网站(第3版)
 2.web界面设计
 3.About.Face.3.交互设计精髓.
+typesof questions in mind. Depending on the domain, it may also be useful to have
+a standardized set oftopicsthat you want to make sure you cover in the course of
+your interview. This list of topics may evolve over the course of your interviews, but
+this will help you make sure that you get enough detail from each interview so that
+you are able to recognize the significant behavior patterns.
+Here are some goal-oriented questionsto consider:
+ Goals— What makes a good day? A bad day?
+ Opportunity— What activities currently waste your time?
+ Priorities— What is most important to you?
+ Information— What helps you make decisions?
+Another useful type of question is the system-oriented question:
+ Function— What are the most common things you do with the product?
+ Frequency— What parts of the product do you use most?
+ Preference— What are your favorite aspects of the product? What drives 
+you crazy?
+ Failure— How do you work around problems?
+ Expertise—What shortcuts do you employ?
+For business products,workflow-oriented questionscan be helpful:
+ Process— What did you do when you first came in today? And after that?
+ Occurrence and recurrence— How often do you do this? What things do you
+do weekly or monthly, but not every day?
+ Exception— What constitutes a typical day? What would be an unusual event?
+To better understand user motivations, you can employ attitude-oriented 
+questions:
+ Aspiration— What do you see yourself doing five years from now?
+ Avoidance— What would you prefer not to do? What do you procrastinate on?
+ Motivation— What do you enjoy most about your job (or lifestyle)? What do you
+always tackle first?
