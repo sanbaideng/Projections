@@ -1,0 +1,1 @@
+找回2014-11-04 08:30:00之前的数据：select * from app_dept as of timestamp to_timestamp('2014-11-04 08:30:00','yyyy-mm-dd hh24:mi:ss')
