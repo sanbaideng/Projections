@@ -1,0 +1,7 @@
+前面i个元素是有序的 ；第i+1个元素在于前面的i个元素比较之后插入相应位置。
+int N = a.length;
+for(int i=1;i<N;i++)
+  {
+    for(int j=i;j>0&&less(a[j],a[j-1]);j--)
+      exch(a,j,j-1);
+  }
